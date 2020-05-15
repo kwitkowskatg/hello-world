@@ -1,2 +1,2 @@
 # hello-world
-Exercise in github using
+Exercise in creating branches
